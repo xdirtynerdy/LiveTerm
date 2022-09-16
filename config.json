@@ -1,13 +1,13 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "https://github.com/xdirtynerdy/README.md",
+  "title": "Nerdcore",
+  "name": "dirtynerdy",
+  "ascii": "nerdcore",
   "social": {
     "github": "github",
     "linkedin": "linkedin"
   },
-  "email": "contact@email.com",
+  "email": "nerdcore508@gmail.com",
   "ps1_hostname": "liveterm",
   "ps1_username": "visitor",
   "repo": "https://github.com/Cveinnt/LiveTerm",
